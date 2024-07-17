@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+}
+nav{
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+}
+nav ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    color: greenyellow;
+    text-decoration: underline;
+}
+section{
+    padding: 20px;
+}
+footer{
+    background-color: #2858de;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 60vh;
+}
+/* body{
+    background-image: url(https://images.pexels.com/photos/26652844/pexels-photo-26652844/free-photo-of-a-sign-that-says-to-telescope-on-top-of-a-building.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: relative;
+} */
